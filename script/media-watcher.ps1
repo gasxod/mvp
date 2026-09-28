@@ -1,6 +1,6 @@
 param(
-    [string]$MediaDir = "C:\mvp\media",
-    [string]$MpvPath = "C:\mvp\mpv.exe",
+    [string]$MediaDir = "C:\mpv\media",
+    [string]$MpvPath = "C:\mpv\mpv.exe",
     [int]$ImageDuration = 10
 )
 
